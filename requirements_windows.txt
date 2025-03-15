@@ -1,0 +1,3 @@
+import glob
+import bpy
+import trimesh
